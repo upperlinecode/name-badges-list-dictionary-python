@@ -16,7 +16,7 @@ He has a list with the first names of all the employees, but doesn't have time t
 
 This could be a daunting task, so Jose has written out a series of increasingly challenging tasks for you and put them in a file called make_badges.py - you can run it by typing `python make_badges.py` in the console, but it won't do anything until YOU write the code.
 
-The last task is a list of all the names and the corresponding numbers. There are about a dozen different ways you could output this information, but the most useful is probably as a dictionary, with the names as a strings paired to the number of mugs you need. Here's what that might look like:
+The last task is a list of all the names and the corresponding numbers. There are about a dozen different ways you could output this information, but the most useful is probably as a dictionary, with the names as strings paired to the numbers of mugs you need. Here's what that might look like:
 
 ```Python
 
