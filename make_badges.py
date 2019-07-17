@@ -5,7 +5,7 @@ import company_data
 #  For their holiday party, Jose (the CEO) wants to make personalized mugs for each one with their names on it, but the trouble is that a lot of workers have the same first names.
 #  They'll save a lot of money if they can know how many of each name to make. Jose is asking you, his newest engineer, to order the mugs.
 
-# 1. How many total mugs will you need to order? In other words, many people work for the company?
+# 1. How many total mugs will you need to order? In other words, how many people work for the company?
 
 
 
