@@ -10,7 +10,7 @@ You've just been hired at a new company called Badges. They're running an app an
 
 The holiday party is coming up, and Jose, the CEO, wants to print personalized coffee mugs for each of his employees with their first names on them.
 
-He has a list with the first names of all the employees, but doesn't have time to do the organizing, so he's giving that task to you. Ultimately, he needs to know how many of each mug to order. For example, if there are three employees who are all named Sarah, then you'll need to order 3 mugs with the string "Sarah" printed on them.
+He has a list with the first names of all the employees, but doesn't have time to do the organizing, so he's giving that task to you. Ultimately, he needs to know how many of each mug to order. For example, if there are three employees who are all named Sania, then you'll need to order 3 mugs with the string "Sania" printed on them.
 
 ### The Strategy
 
@@ -22,8 +22,8 @@ The last task is a list of all the names and the corresponding numbers. There ar
 
 mug_count = {
     "Virginia": 4,
-    "Jason": 1,
-    "Christine": 3
+    "Tyrell": 1,
+    "Maria": 3
   # Etc, until you've ordered one mug for each person in the company.
 }
 
