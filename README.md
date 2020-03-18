@@ -1,5 +1,7 @@
 # Company Mugs
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/name-badges-list-dictionary-python)](https://repl.it/github/upperlinecode/name-badges-list-dictionary-python)
+
 ##### Lists and Dictionaries
 
 -------
