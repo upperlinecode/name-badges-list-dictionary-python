@@ -1,4 +1,4 @@
-import company_data
+from company_data import employees
 
 #  In the adjacent file, there is a list of first names of all the people who work for a new app called Badges.
 #  Their names are stored in a list called "employees".
